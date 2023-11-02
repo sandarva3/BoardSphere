@@ -61,7 +61,7 @@ There are people who poured their time and effort for creating and developing th
 - The people who made the necessary resources available for learning.
 
 ### Since I was unable to deploy this application, below are some screenshots:
- ![Screenshot of Home page](./Homepage.png)
+ ![Screenshot of Home page](./HomePage.png)
  
  ![Screenshot of Topic page](./TopicPage.png)
  
